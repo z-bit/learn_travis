@@ -1,8 +1,9 @@
 {
     "name": "learn_travis",
-    "description": "learn",
-    "author": "me",
+    "description": "Learn it!",
+    "author": "Guenther",
     "version": "0.0.1",
+    "private": true,
     "devDependencies": {
         "jshint": "^2.6.0"
     },
